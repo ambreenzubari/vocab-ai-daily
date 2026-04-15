@@ -19,6 +19,7 @@ interface VocabWord {
 // ─── Data helpers ─────────────────────────────────────────────────────────────
 
 
+
 function getWords(): VocabWord[] {
   try {
     const dataPath = join(process.cwd(), 'data', 'words.json');
