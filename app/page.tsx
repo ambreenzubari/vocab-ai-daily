@@ -28,6 +28,7 @@ function getWords(): VocabWord[] {
   }
 }
 
+
 function calcStreak(words: VocabWord[]): number {
   if (!words.length) return 0;
   const dates = new Set(words.map((w) => w.date));
