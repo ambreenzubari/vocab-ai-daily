@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-04-16",
+    "word": "remorse",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ɹɪˈmɔː(ɹ)s/",
+    "definition": "A feeling of regret or sadness for doing wrong or sinning.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "agenbite",
+      "compunction",
+      "contrition",
+      "penitence"
+    ],
+    "antonyms": [],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-04-15",
     "word": "officious",
     "partOfSpeech": "adjective",
