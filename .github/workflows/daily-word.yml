@@ -37,8 +37,8 @@ jobs:
 
       - name: Commit and push new word
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "ambreenzubari"
+          git config --global user.email "ambreenzubari04@gmail.com"
 
           git add data/words.json
 
