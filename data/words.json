@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-04-17",
+    "word": "temerity",
+    "partOfSpeech": "noun",
+    "pronunciation": "/tɛˈmɛɹəti/",
+    "definition": "Reckless boldness; foolish bravery.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "audacity",
+      "foolhardiness",
+      "rashness",
+      "recklessness"
+    ],
+    "antonyms": [],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-04-16",
     "word": "remorse",
     "partOfSpeech": "noun",
