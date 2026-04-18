@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-04-18",
+    "word": "veracious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/vɛ.ˈɹeɪ.ʃəs/",
+    "definition": "True.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "The politician's statement was eventually proven to be veracious."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-04-17",
     "word": "temerity",
     "partOfSpeech": "noun",
