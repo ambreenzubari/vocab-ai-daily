@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-04-19",
+    "word": "yearn",
+    "partOfSpeech": "verb",
+    "pronunciation": "/jɜːn/",
+    "definition": "To long, have a strong desire (for something).",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "All I yearn for is a simple life."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "difficulty": "easy"
+  },
+  {
     "date": "2026-04-18",
     "word": "veracious",
     "partOfSpeech": "adjective",
