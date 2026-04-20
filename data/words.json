@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-04-20",
+    "word": "zealous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈzɛl.əs/",
+    "definition": "Full of zeal; ardent, fervent; exhibiting enthusiasm or strong passion.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "ardent",
+      "eager",
+      "enthusiastic",
+      "fervent"
+    ],
+    "antonyms": [
+      "apathetic",
+      "dispassionate",
+      "indifferent"
+    ],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-04-19",
     "word": "yearn",
     "partOfSpeech": "verb",
