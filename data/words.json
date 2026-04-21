@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-04-21",
+    "word": "ephemeral",
+    "partOfSpeech": "noun",
+    "pronunciation": "/əˈfɛ.mə.ɹəl/",
+    "definition": "Something which lasts for a short period of time.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "ephemeron",
+      "evanescent",
+      "fleeting",
+      "momentary"
+    ],
+    "antonyms": [
+      "eternal",
+      "everlasting",
+      "permanent"
+    ],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-04-20",
     "word": "zealous",
     "partOfSpeech": "adjective",
