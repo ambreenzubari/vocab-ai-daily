@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-04-23",
+    "word": "paradigm",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈpæ.ɹə.daɪm/",
+    "definition": "A pattern, a way of doing something, especially a pattern of thought, a system of beliefs, a conceptual framework.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "Thomas Kuhn's landmark “The Structure of Scientific Revolutions” got people talking about paradigm shifts, to the point the word itself now suggests an incomplete or biased perspective.",
+      "The paradigm of \"go\" is \"go, went, gone.\""
+    ],
+    "synonyms": [
+      "exemplar",
+      "posterboy",
+      "template",
+      "model"
+    ],
+    "antonyms": [],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-04-22",
     "word": "resilience",
     "partOfSpeech": "noun",
