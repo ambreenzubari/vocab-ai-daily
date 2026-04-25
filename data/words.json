@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-04-25",
+    "word": "gregarious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ɡɹɪˈɡɛə.ɹɪ.əs/",
+    "definition": "(of a person) Describing one who enjoys being in crowds and socializing.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "outgoing",
+      "sociable",
+      "social"
+    ],
+    "antonyms": [
+      "ungregarious",
+      "nongregarious"
+    ],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-04-24",
     "word": "diligence",
     "partOfSpeech": "noun",
