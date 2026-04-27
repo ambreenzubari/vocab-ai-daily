@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-04-27",
+    "word": "nuance",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈnjuː.ɑːns/",
+    "definition": "A minor distinction.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "Understanding the basics is easy, but appreciating the nuances takes years."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-04-26",
     "word": "juxtapose",
     "partOfSpeech": "verb",
