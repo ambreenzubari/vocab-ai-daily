@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-04-30",
+    "word": "ambivalent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/æmˈbɪv.ə.lənt/",
+    "definition": "Simultaneously experiencing or expressing opposing or contradictory feelings, beliefs, or motivations.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "He has an ambivalent relationship towards his parents."
+    ],
+    "synonyms": [
+      "fluctuating",
+      "vacillating",
+      "wavering",
+      "conflicted"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-04-29",
     "word": "tenacious",
     "partOfSpeech": "adjective",
