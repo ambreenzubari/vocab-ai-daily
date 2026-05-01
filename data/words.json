@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-05-01",
+    "word": "didactic",
+    "partOfSpeech": "noun",
+    "pronunciation": "/daɪˈdæk.tɪk/",
+    "definition": "A treatise on teaching or education.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "didactic poetry"
+    ],
+    "synonyms": [
+      "educative",
+      "instructive"
+    ],
+    "antonyms": [],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-04-30",
     "word": "ambivalent",
     "partOfSpeech": "adjective",
