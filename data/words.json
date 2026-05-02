@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-05-02",
+    "word": "garrulous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈɡæɹ.jʊ.ləs/",
+    "definition": "Excessively or tiresomely talkative.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "bombastic",
+      "rambling",
+      "wordy",
+      "chatty"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-05-01",
     "word": "didactic",
     "partOfSpeech": "noun",
