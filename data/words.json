@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-05-03",
+    "word": "jocular",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈdʒɒkjʊlə/",
+    "definition": "Humorous, amusing or joking.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "All we had was a short and jocular conversation."
+    ],
+    "synonyms": [
+      "joculous",
+      "jokey",
+      "silly"
+    ],
+    "antonyms": [
+      "heartfelt",
+      "serious",
+      "sincere"
+    ],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-05-02",
     "word": "garrulous",
     "partOfSpeech": "adjective",
