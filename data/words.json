@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-05-04",
+    "word": "nonchalant",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈnɒn.ʃəl.ənt/",
+    "definition": "Casually calm and relaxed.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "We handled the whole frenetic situation with a nonchalant attitude.",
+      "He is far too nonchalant about such a serious matter."
+    ],
+    "synonyms": [
+      "carefree",
+      "cool",
+      "easygoing",
+      "mellow"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-05-03",
     "word": "jocular",
     "partOfSpeech": "adjective",
