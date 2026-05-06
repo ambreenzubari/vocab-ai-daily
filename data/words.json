@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-05-06",
+    "word": "taciturn",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈtæsɪtɜːn/",
+    "definition": "Silent; temperamentally untalkative; disinclined to speak.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "The two sisters could hardly have been more different, one so boisterous and expressive, the other so taciturn and calm."
+    ],
+    "synonyms": [
+      "reticent",
+      "untalkative"
+    ],
+    "antonyms": [
+      "garrulous",
+      "loquacious"
+    ],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-05-05",
     "word": "querulous",
     "partOfSpeech": "adjective",
