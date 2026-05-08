@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-05-08",
+    "word": "cogent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈkə͡ʊd͡ʒn̩t/",
+    "definition": "Reasonable and convincing; based on evidence.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "The prosecution presented a cogent argument, convincing the jury of the defendant's guilt."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-05-07",
     "word": "wistful",
     "partOfSpeech": "adjective",
