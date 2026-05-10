@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-05-10",
+    "word": "iconoclast",
+    "partOfSpeech": "noun",
+    "pronunciation": "/aɪˈkɒnəklæst/",
+    "definition": "One who destroys religious images or icons, especially an opponent of the Orthodox Church in the 8th and 9th centuries, or a Puritan during the European Reformation.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [],
+    "antonyms": [
+      "iconodule"
+    ],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-05-09",
     "word": "facetious",
     "partOfSpeech": "adjective",
