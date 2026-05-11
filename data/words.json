@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-05-11",
+    "word": "nefarious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/nɛˈfɛəɹi.əs/",
+    "definition": "Sinful, villainous, criminal, or wicked, especially when noteworthy or notorious for such characteristics.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "Aliens have a nefarious connotation in many science fiction books."
+    ],
+    "synonyms": [
+      "evil",
+      "good-for-nothing",
+      "iniquitous",
+      "sinister"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-05-10",
     "word": "iconoclast",
     "partOfSpeech": "noun",
