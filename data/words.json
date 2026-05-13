@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-05-13",
+    "word": "trepidation",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌtɹɛp.ɪˈdeɪ.ʃən/",
+    "definition": "A fearful state; a state of concern or hesitation.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "I decided, with considerable trepidation, to let him drive my car without me."
+    ],
+    "synonyms": [
+      "agitation",
+      "apprehension",
+      "consternation",
+      "fear"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-05-12",
     "word": "quixotic",
     "partOfSpeech": "adjective",
