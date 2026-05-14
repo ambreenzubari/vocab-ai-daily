@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-05-14",
+    "word": "zeitgeist",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈtsaɪtɡaɪst/",
+    "definition": "The spirit of the age; the taste, outlook, and spirit characteristic of a period.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "spiritus mundi",
+      "temper of the times",
+      "tenor of the times"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-05-13",
     "word": "trepidation",
     "partOfSpeech": "noun",
