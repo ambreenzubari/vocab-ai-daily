@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-05-15",
+    "word": "capricious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/kəˈpɹɪʃəs/",
+    "definition": "Impulsive and unpredictable; determined by chance, impulse, or whim",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "I almost died in a capricious winter storm."
+    ],
+    "synonyms": [
+      "arbitrary",
+      "whimsical"
+    ],
+    "antonyms": [
+      "conscientious",
+      "rigorous"
+    ],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-05-14",
     "word": "zeitgeist",
     "partOfSpeech": "noun",
