@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-05-18",
+    "word": "malevolent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/məˈlɛvələnt/",
+    "definition": "Having or displaying ill will; wishing harm on others",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [],
+    "antonyms": [
+      "benevolent"
+    ],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-05-17",
     "word": "impeccable",
     "partOfSpeech": "adjective",
