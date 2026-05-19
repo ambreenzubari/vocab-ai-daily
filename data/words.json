@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-05-19",
+    "word": "perfidious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/pəˈfɪdi.əs/",
+    "definition": "Of, pertaining to, or representing perfidy; disloyal to what should command one's fidelity or allegiance.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "disloyal",
+      "traitorous",
+      "treacherous",
+      "unfaithful"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-05-18",
     "word": "malevolent",
     "partOfSpeech": "adjective",
