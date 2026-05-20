@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-05-20",
+    "word": "truculent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈtɹʌkjʊlənt/",
+    "definition": "Cruel or savage.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "The truculent soldiers gave us a steely-eyed stare."
+    ],
+    "synonyms": [
+      "barbarous",
+      "cruel",
+      "ferocious",
+      "fierce"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-05-19",
     "word": "perfidious",
     "partOfSpeech": "adjective",
