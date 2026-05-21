@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-05-21",
+    "word": "belligerent",
+    "partOfSpeech": "noun",
+    "pronunciation": "/bəˈlɪdʒ.(ə).ɹənt/",
+    "definition": "A state or other armed participant in warfare",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "The UN sent a treaty proposal to the belligerents."
+    ],
+    "synonyms": [
+      "aggressive",
+      "antagonistic",
+      "bellicose",
+      "combative"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-05-20",
     "word": "truculent",
     "partOfSpeech": "adjective",
