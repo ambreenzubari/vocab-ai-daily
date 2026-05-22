@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-05-22",
+    "word": "equanimity",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌiːkwəˈnɪmɪtiː/",
+    "definition": "The state of being calm, stable and composed, especially under stress.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "calmness",
+      "composure",
+      "even-mindedness"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-05-21",
     "word": "belligerent",
     "partOfSpeech": "noun",
