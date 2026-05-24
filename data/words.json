@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-05-24",
+    "word": "kinetic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/kɪˈnɛtɪk/",
+    "definition": "Relating to motion",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "active",
+      "animated",
+      "dynamic",
+      "seepy"
+    ],
+    "antonyms": [
+      "lazy",
+      "logic",
+      "sluggish"
+    ],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-05-23",
     "word": "hapless",
     "partOfSpeech": "adjective",
