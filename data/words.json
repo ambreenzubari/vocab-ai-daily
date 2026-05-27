@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-05-27",
+    "word": "wan",
+    "partOfSpeech": "noun",
+    "pronunciation": "/wɒn/",
+    "definition": "The quality of being wan; wanness.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "A wan expression"
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "difficulty": "easy"
+  },
+  {
     "date": "2026-05-25",
     "word": "nascent",
     "partOfSpeech": "adjective",
