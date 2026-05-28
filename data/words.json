@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-05-28",
+    "word": "melancholy",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈmelənkəli/",
+    "definition": "Black bile, formerly thought to be one of the four \"cardinal humours\" of animal bodies.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "Melancholy people don't talk much."
+    ],
+    "synonyms": [
+      "melancholic"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-05-27",
     "word": "wan",
     "partOfSpeech": "noun",
