@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-05-29",
+    "word": "aesthetic",
+    "partOfSpeech": "noun",
+    "pronunciation": "/iːs.ˈθe.tɪk/",
+    "definition": "The study of art or beauty.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "Her most recent works have this quirky, half-serious 90's teen culture-inspired aesthetic.",
+      "It works well enough, but the shabby exterior offends his aesthetic sensibilities."
+    ],
+    "synonyms": [
+      "aesthetical",
+      "esthetic",
+      "tasteful"
+    ],
+    "antonyms": [
+      "inaesthetic",
+      "unaesthetic"
+    ],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-05-28",
     "word": "melancholy",
     "partOfSpeech": "noun",
