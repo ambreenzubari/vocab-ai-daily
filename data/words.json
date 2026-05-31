@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-05-31",
+    "word": "ostracize",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈɒstɹəsaɪz/",
+    "definition": "To ban a person from a city for five or ten years through the procedure of ostracism.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "blackball",
+      "cut someone dead",
+      "give someone the cold shoulder",
+      "send to Coventry"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-05-30",
     "word": "hedonism",
     "partOfSpeech": "noun",
