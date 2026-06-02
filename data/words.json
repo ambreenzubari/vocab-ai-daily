@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-06-02",
+    "word": "empirical",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ɪmˈpɪɹɪkəl/",
+    "definition": "Pertaining to or based on experience.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "empiric"
+    ],
+    "antonyms": [
+      "anecdotal",
+      "nonempirical"
+    ],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-06-01",
     "word": "venerate",
     "partOfSpeech": "verb",
