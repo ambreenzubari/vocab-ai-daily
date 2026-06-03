@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-06-03",
+    "word": "laconic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ləˈkɒnɪk/",
+    "definition": "Using as few words as possible; pithy and concise.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "concise",
+      "pithy",
+      "terse"
+    ],
+    "antonyms": [
+      "bombastic",
+      "long-winded",
+      "loquacious"
+    ],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-06-02",
     "word": "empirical",
     "partOfSpeech": "adjective",
