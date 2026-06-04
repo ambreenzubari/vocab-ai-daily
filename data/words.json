@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-04",
+    "word": "recalcitrant",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ɹɪ.ˈkæl.sɪ.tɹənt/",
+    "definition": "A person who is recalcitrant.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "adversarial",
+      "intransigent",
+      "obstreperous",
+      "stubborn"
+    ],
+    "antonyms": [
+      "amenable",
+      "cooperative",
+      "eager"
+    ],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-06-03",
     "word": "laconic",
     "partOfSpeech": "adjective",
