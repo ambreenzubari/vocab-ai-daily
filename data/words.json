@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-06-05",
+    "word": "acumen",
+    "partOfSpeech": "noun",
+    "pronunciation": "/əˈkjuːmən/",
+    "definition": "Quickness of perception or discernment; penetration of mind; the faculty of nice discrimination.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "acuity",
+      "acuteness",
+      "canniness",
+      "foxiness"
+    ],
+    "antonyms": [],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-06-04",
     "word": "recalcitrant",
     "partOfSpeech": "noun",
