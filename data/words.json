@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-06-06",
+    "word": "germane",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/dʒɜː(ɹ)ˈmeɪn/",
+    "definition": "Related to the topic being discussed or considered.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "apt",
+      "on-topic",
+      "pertinent",
+      "relevant"
+    ],
+    "antonyms": [],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-06-05",
     "word": "acumen",
     "partOfSpeech": "noun",
