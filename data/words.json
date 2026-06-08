@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-06-08",
+    "word": "unequivocal",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ʌnɨˈkwɪvəkəl/",
+    "definition": "Unambiguous; without equivocation or ambiguity; singularly clear, unmistakable, or unquestionable",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "I want you to give me an unequivocal guarantee on that.",
+      "the unequivocal scope of the Golden Gate Bridge"
+    ],
+    "synonyms": [
+      "definite",
+      "unambiguous",
+      "univocal"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-06-07",
     "word": "opulent",
     "partOfSpeech": "adjective",
