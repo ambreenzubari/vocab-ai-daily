@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-06-11",
+    "word": "rancorous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈɹæŋ.kəɹ.əs/",
+    "definition": "Full of rancor; bitter; unforgiving.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "rancorous speech"
+    ],
+    "synonyms": [
+      "malicious",
+      "resentful",
+      "venomous"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-06-10",
     "word": "juggernaut",
     "partOfSpeech": "noun",
