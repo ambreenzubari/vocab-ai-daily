@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-06-12",
+    "word": "circumspect",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈsɜː.kəm.spɛkt/",
+    "definition": "Carefully aware of all circumstances; considerate of all that is pertinent.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "Being aware of the danger of upsetting her audience, she was somewhat circumspect in her comments."
+    ],
+    "synonyms": [
+      "cautious",
+      "chary",
+      "prudent",
+      "thoughtful"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-06-11",
     "word": "rancorous",
     "partOfSpeech": "adjective",
