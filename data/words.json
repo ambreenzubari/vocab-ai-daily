@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-13",
+    "word": "indelible",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ɪnˈdɛləbl/",
+    "definition": "Having the quality of being difficult to delete, remove, wash away, blot out, or efface.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "This ink spot on the contract is indelible.",
+      "That horrible story just might make an indelible impression on the memory."
+    ],
+    "synonyms": [
+      "unerasable",
+      "unforgettable"
+    ],
+    "antonyms": [
+      "delible",
+      "uninsertable"
+    ],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-06-12",
     "word": "circumspect",
     "partOfSpeech": "adjective",
