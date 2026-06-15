@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-06-15",
+    "word": "serendipity",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌsɛ.ɹən.ˈdɪ.pɪ.ti/",
+    "definition": "A combination of events which have come together by chance to make a surprisingly good or wonderful outcome.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "chance",
+      "luck"
+    ],
+    "antonyms": [
+      "Murphy's law",
+      "perfect storm"
+    ],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-06-14",
     "word": "poignant",
     "partOfSpeech": "adjective",
