@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-17",
+    "word": "paradox",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈpaɹədɒks/",
+    "definition": "An apparently self-contradictory statement, which can only be true if it is false, and vice versa.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "\"This sentence is false\" is a paradox.",
+      "It is an interesting paradox that drinking a lot of water can often make you feel thirsty.",
+      "Not having a fashion is a fashion; that's a paradox."
+    ],
+    "synonyms": [
+      "shocker",
+      "contradiction",
+      "juxtaposition",
+      "reverse psychology"
+    ],
+    "antonyms": [],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-06-16",
     "word": "enigmatic",
     "partOfSpeech": "adjective",
