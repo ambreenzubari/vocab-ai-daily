@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-06-18",
+    "word": "candid",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈkæn.dɪd/",
+    "definition": "A spontaneous or unposed photograph.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "His portraits looked stiff and formal but his candids showed life being lived."
+    ],
+    "synonyms": [
+      "frank",
+      "open",
+      "parrhesiastic",
+      "sincere"
+    ],
+    "antonyms": [],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-06-17",
     "word": "paradox",
     "partOfSpeech": "noun",
