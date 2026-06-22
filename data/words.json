@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-22",
+    "word": "alacrity",
+    "partOfSpeech": "noun",
+    "pronunciation": "[əˈlækɹɨti]",
+    "definition": "Eagerness; liveliness; enthusiasm.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "avidity",
+      "eagerness",
+      "enthusiasm",
+      "willingness"
+    ],
+    "antonyms": [
+      "apathy",
+      "disinclination",
+      "hesitance"
+    ],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-06-21",
     "word": "loquacious",
     "partOfSpeech": "adjective",
