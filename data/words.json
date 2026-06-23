@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-06-23",
+    "word": "luminous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈluːmɪnəs/",
+    "definition": "Emitting light; glowing brightly.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "beamful",
+      "radiant",
+      "shining",
+      "lighted"
+    ],
+    "antonyms": [],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-06-22",
     "word": "alacrity",
     "partOfSpeech": "noun",
