@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-24",
+    "word": "aberrant",
+    "partOfSpeech": "noun",
+    "pronunciation": "/əˈbɛɹ.n̩t/",
+    "definition": "A person or object that deviates from the rest of a group.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "deviant",
+      "freak",
+      "abnormal",
+      "exceptional"
+    ],
+    "antonyms": [
+      "continuous",
+      "normal",
+      "regular"
+    ],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-06-23",
     "word": "luminous",
     "partOfSpeech": "adjective",
