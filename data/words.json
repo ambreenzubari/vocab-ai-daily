@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-06-25",
+    "word": "languid",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈlæŋ.ɡwɪd/",
+    "definition": "Lacking enthusiasm, energy, or strength; drooping or flagging from weakness, fatigue, or lack of energy",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "languid breathing"
+    ],
+    "synonyms": [
+      "exhausted",
+      "faint",
+      "listless",
+      "swear"
+    ],
+    "antonyms": [],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-06-24",
     "word": "aberrant",
     "partOfSpeech": "noun",
