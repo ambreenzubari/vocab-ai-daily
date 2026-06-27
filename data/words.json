@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-27",
+    "word": "labyrinth",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈlab.(ə)ɹ.ɪnθ/",
+    "definition": "A maze-like structure built by Daedalus in Knossos, containing the Minotaur.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-06-26",
     "word": "eloquent",
     "partOfSpeech": "adjective",
