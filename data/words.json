@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-06-28",
+    "word": "fastidious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/fæˈstɪdi.əs/",
+    "definition": "Excessively particular, demanding, or fussy about details, especially about tidiness and cleanliness.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "exacting",
+      "fussy",
+      "meticulous",
+      "niggly"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-06-27",
     "word": "labyrinth",
     "partOfSpeech": "noun",
