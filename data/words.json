@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-06-29",
+    "word": "umbrage",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈʌm.bɹɪdʒ/",
+    "definition": "A feeling of anger or annoyance caused by something offensive.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "annoyance",
+      "displeasure",
+      "huff",
+      "miff"
+    ],
+    "antonyms": [],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-06-28",
     "word": "fastidious",
     "partOfSpeech": "adjective",
