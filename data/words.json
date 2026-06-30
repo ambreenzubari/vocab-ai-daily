@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-30",
+    "word": "pernicious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/pəˈnɪʃəs/",
+    "definition": "Causing much harm in a subtle way.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "attery",
+      "deleterious"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-06-29",
     "word": "umbrage",
     "partOfSpeech": "noun",
