@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-01",
+    "word": "gratuitous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ɡɹəˈtjuː.ɪt.əs/",
+    "definition": "Given freely; unearned.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "gratuitous violence"
+    ],
+    "synonyms": [
+      "baseless",
+      "free",
+      "gratis",
+      "groundless"
+    ],
+    "antonyms": [
+      "onerous"
+    ],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-06-30",
     "word": "pernicious",
     "partOfSpeech": "adjective",
