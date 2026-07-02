@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-02",
+    "word": "deferential",
+    "partOfSpeech": "adjective",
+    "pronunciation": "[ˌdɛfəˈɹɛnʃəɫ]",
+    "definition": "Respectful and considerate; showing deference.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [],
+    "antonyms": [
+      "derogative",
+      "derogatory"
+    ],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-07-01",
     "word": "gratuitous",
     "partOfSpeech": "adjective",
