@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-07-03",
+    "word": "uncanny",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ʌnˈkæni/",
+    "definition": "(Freud) Something that is simultaneously familiar and strange, typically leading to feelings of discomfort; translation of Freud's usage of the German \"unheimlich\" (literally \"unsecret\").",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "He bore an uncanny resemblance to the dead sailor."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-07-02",
     "word": "deferential",
     "partOfSpeech": "adjective",
