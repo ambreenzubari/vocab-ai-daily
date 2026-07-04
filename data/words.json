@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-07-04",
+    "word": "idiosyncrasy",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌɪd.i.əʊˈsɪŋ.kɹə.si/",
+    "definition": "A behavior or way of thinking that is characteristic of a person.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "He mastered the idiosyncrasies of English spelling and speech."
+    ],
+    "synonyms": [
+      "eccentricity",
+      "foible",
+      "habit",
+      "mannerism"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-07-03",
     "word": "uncanny",
     "partOfSpeech": "noun",
