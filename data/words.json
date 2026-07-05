@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-07-05",
+    "word": "insipid",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ɪnˈsɪp.ɪd/",
+    "definition": "Unappetizingly flavorless.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "The diners were disappointed with the plain, insipid soup they were served.",
+      "The textbook had a most insipid presentation of the controversy."
+    ],
+    "synonyms": [
+      "bland",
+      "boring",
+      "characterless",
+      "colourless"
+    ],
+    "antonyms": [],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-07-04",
     "word": "idiosyncrasy",
     "partOfSpeech": "noun",
