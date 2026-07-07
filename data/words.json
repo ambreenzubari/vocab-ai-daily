@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-07-07",
+    "word": "harbinger",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈhɑːbɪndʒə/",
+    "definition": "A person or thing that foreshadows or foretells the coming of someone or something.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "forewarning",
+      "herald",
+      "omen",
+      "premonition"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-07-06",
     "word": "hubris",
     "partOfSpeech": "noun",
