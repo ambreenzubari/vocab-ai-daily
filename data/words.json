@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-07-08",
+    "word": "judicious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/dʒuˈdɪʃ.əs/",
+    "definition": "Having, characterized by, or done with good judgment or sound thinking.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "sagacious"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-07-07",
     "word": "harbinger",
     "partOfSpeech": "noun",
