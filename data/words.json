@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-11",
+    "word": "vicarious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/vɪˈkɛəɹi.əs/",
+    "definition": "Delegated.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "People experience vicarious pleasures through watching television.",
+      "The concept of vicarious atonement, that one person can atone for the sins of another, is found in many religions."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-07-10",
     "word": "pedantic",
     "partOfSpeech": "adjective",
