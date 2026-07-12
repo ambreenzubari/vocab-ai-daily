@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-12",
+    "word": "glib",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ɡlɪb/",
+    "definition": "To make glib.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "a sheet of glib ice",
+      "a glib tongue; a glib speech"
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "difficulty": "easy"
+  },
+  {
     "date": "2026-07-11",
     "word": "vicarious",
     "partOfSpeech": "adjective",
