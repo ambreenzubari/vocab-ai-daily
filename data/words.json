@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-07-13",
+    "word": "rhetoric",
+    "partOfSpeech": "noun",
+    "pronunciation": "/rhetoric/",
+    "definition": "The art of using language, especially public speaking, as a means to persuade.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "It’s only so much rhetoric.",
+      "A rhetorical question is one used merely to make a point, with no response expected."
+    ],
+    "synonyms": [
+      "wordcraft"
+    ],
+    "antonyms": [],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-07-12",
     "word": "glib",
     "partOfSpeech": "verb",
