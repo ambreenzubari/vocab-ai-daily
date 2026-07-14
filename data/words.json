@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-07-14",
+    "word": "esoteric",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌɛs.əʊˈtɛɹ.ɪk/",
+    "definition": "An esoteric doctrine or treatise; esoteric philosophy.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "The writing in this manual is very esoteric; I’d need a degree in engineering just to understand it!",
+      "an esoteric meeting"
+    ],
+    "synonyms": [
+      "secretive",
+      "cerebral",
+      "arcane",
+      "recondite"
+    ],
+    "antonyms": [
+      "exoteric"
+    ],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-07-13",
     "word": "rhetoric",
     "partOfSpeech": "noun",
