@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-07-16",
+    "word": "stoic",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈstəʊɪk/",
+    "definition": "Proponent of stoicism, a school of thought, from in 300 B.C.E. up to about the time of Marcus Aurelius, who holds that by cultivating an understanding of the logos, or natural law, one can be free of suffering.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "apathetic",
+      "impassive",
+      "stoical",
+      "expressionless"
+    ],
+    "antonyms": [],
+    "difficulty": "easy"
+  },
+  {
     "date": "2026-07-15",
     "word": "vociferous",
     "partOfSpeech": "adjective",
