@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-07-17",
+    "word": "sycophant",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈsɪkəfænt/",
+    "definition": "One who uses obsequious compliments to gain self-serving favor or advantage from another; a servile flatterer.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "ass-kisser",
+      "brown noser",
+      "suck up",
+      "yes man"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-07-16",
     "word": "stoic",
     "partOfSpeech": "noun",
