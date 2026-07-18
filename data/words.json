@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-18",
+    "word": "ambiguous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/æmˈbɪɡjuəs/",
+    "definition": "Open to multiple interpretations.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "The politician was criticized for his ambiguous statements and lack of precision.",
+      "He gave an ambiguous answer."
+    ],
+    "synonyms": [
+      "equivocal"
+    ],
+    "antonyms": [
+      "clear",
+      "precise",
+      "unambiguous"
+    ],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-07-17",
     "word": "sycophant",
     "partOfSpeech": "noun",
