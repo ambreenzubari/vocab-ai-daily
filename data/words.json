@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-07-19",
+    "word": "kismet",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈkɪs.mɛt/",
+    "definition": "Fate; a predetermined or unavoidable destiny.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "destiny",
+      "fate",
+      "fortune",
+      "lot"
+    ],
+    "antonyms": [],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-07-18",
     "word": "ambiguous",
     "partOfSpeech": "adjective",
