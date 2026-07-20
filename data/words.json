@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-07-20",
+    "word": "ubiquitous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/juːˈbɪk.wə.təs/",
+    "definition": "Being everywhere at once: omnipresent.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "To Hindus, Jews, Christians, and Muslims, God is ubiquitous."
+    ],
+    "synonyms": [
+      "common",
+      "pervasive",
+      "ever-present",
+      "omnipresent"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-07-19",
     "word": "kismet",
     "partOfSpeech": "noun",
