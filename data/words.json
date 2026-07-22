@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-07-22",
+    "word": "halcyon",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈhælsiːən/",
+    "definition": "A kingfisher said in classical mythology to nest on the sea, thereby calming the waters.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "at peace",
+      "blissful",
+      "calm",
+      "peaceful"
+    ],
+    "antonyms": [],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-07-21",
     "word": "effervescent",
     "partOfSpeech": "adjective",
