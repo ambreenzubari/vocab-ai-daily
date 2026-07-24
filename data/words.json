@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-07-24",
+    "word": "forlorn",
+    "partOfSpeech": "verb",
+    "pronunciation": "/fɔː-/",
+    "definition": "To abandon, forsake.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "forsaken"
+    ],
+    "antonyms": [],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-07-23",
     "word": "cacophony",
     "partOfSpeech": "noun",
