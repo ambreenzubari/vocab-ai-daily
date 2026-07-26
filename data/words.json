@@ -1,5 +1,30 @@
 [
   {
+    "date": "2026-07-26",
+    "word": "sanguine",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈsæŋ.ɡwɪn/",
+    "definition": "Blood colour; red.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "a sanguine bodily temperament",
+      "a sanguine temper",
+      "I'm sanguine about the eventual success of the project."
+    ],
+    "synonyms": [
+      "animated",
+      "assured",
+      "bright",
+      "bullish"
+    ],
+    "antonyms": [
+      "blue",
+      "gloomy",
+      "pessimistic"
+    ],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-07-25",
     "word": "ostentatious",
     "partOfSpeech": "adjective",
