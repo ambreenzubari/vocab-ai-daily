@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-07-27",
+    "word": "magnanimous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/mæɡˈnæn.ɪ.məs/",
+    "definition": "Noble and generous in spirit.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "He thinks himself ardent, impulsive, passionate, magnanimous — capable of boundless enthusiasm for an idea or a sentiment."
+    ],
+    "synonyms": [
+      "big-hearted",
+      "generous",
+      "great-hearted",
+      "large-hearted"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-07-26",
     "word": "sanguine",
     "partOfSpeech": "noun",
