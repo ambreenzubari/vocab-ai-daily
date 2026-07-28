@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-28",
+    "word": "verbose",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/vəˈbəʊs/",
+    "definition": "Abounding in words, containing more words than necessary; long-winded.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [],
+    "antonyms": [
+      "concise",
+      "terse"
+    ],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-07-27",
     "word": "magnanimous",
     "partOfSpeech": "adjective",
