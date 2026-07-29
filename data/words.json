@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-07-29",
+    "word": "whimsical",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈwɪmzɪkəl/",
+    "definition": "Given to whimsy.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "idiosyncratic",
+      "outlandish",
+      "peculiar",
+      "pixilated"
+    ],
+    "antonyms": [],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-07-28",
     "word": "verbose",
     "partOfSpeech": "adjective",
