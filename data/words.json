@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-07-30",
+    "word": "benevolent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/bəˈnɛvələnt/",
+    "definition": "Having a disposition to do good.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "Chinese and Eastern mythologies describe dragons as benevolent."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "malevolent"
+    ],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-07-29",
     "word": "whimsical",
     "partOfSpeech": "adjective",
