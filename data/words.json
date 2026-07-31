@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-31",
+    "word": "beguile",
+    "partOfSpeech": "verb",
+    "pronunciation": "/bɪˈɡaɪl/",
+    "definition": "To deceive or delude (using guile).",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "I will never touch The Orb, even though its mysterious glow seduces and beguiles.",
+      "We beguiled the hours away"
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-07-30",
     "word": "benevolent",
     "partOfSpeech": "adjective",
