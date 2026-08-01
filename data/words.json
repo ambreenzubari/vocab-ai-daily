@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-08-01",
+    "word": "maudlin",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈmɔːd.lɪn/",
+    "definition": "The Magdalene; Mary Magdalene.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [],
+    "synonyms": [
+      "mushy",
+      "sappy",
+      "schmaltzy",
+      "slushy"
+    ],
+    "antonyms": [],
+    "difficulty": "medium"
+  },
+  {
     "date": "2026-07-31",
     "word": "beguile",
     "partOfSpeech": "verb",
