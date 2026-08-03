@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-08-03",
+    "word": "soliloquy",
+    "partOfSpeech": "noun",
+    "pronunciation": "/səˈlɪləkwi/",
+    "definition": "The act of a character speaking to themselves so as to reveal their thoughts to the audience.",
+    "etymology": "Etymology sourced from Free Dictionary (dictionaryapi.dev).",
+    "examples": [
+      "At the end of the second act the main villain gave a soliloquy detailing his plans to attack the protagonist."
+    ],
+    "synonyms": [
+      "monologue",
+      "soliloquize"
+    ],
+    "antonyms": [
+      "colloquy",
+      "dialog",
+      "dialogue"
+    ],
+    "difficulty": "hard"
+  },
+  {
     "date": "2026-08-02",
     "word": "rapacious",
     "partOfSpeech": "adjective",
